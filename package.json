@@ -2,6 +2,9 @@
   "private": true,
   "name": "cube",
   "version": "1.0.0",
+  "workspaces": [ 
+    "packages/*"
+  ],
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",

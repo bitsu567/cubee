@@ -5,7 +5,7 @@
   "author": "Wu Hongsu <neil@fiture.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/utils.js",
+  "main": "es/index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"

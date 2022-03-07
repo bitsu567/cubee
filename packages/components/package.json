@@ -1,6 +1,6 @@
 {
   "name": "@cube/components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Wu Hongsu <neil@fiture.com>",
   "homepage": "",
@@ -15,9 +15,9 @@
   ],
   "publishConfig": {
     "registry": "https://www.npmjs.com/",
-    "access": "public" 
+    "access": "public"
   },
-  "repository": { 
+  "repository": {
     "type": "git",
     "url": "https://github.com/bitsu567/cube"
   },
@@ -25,6 +25,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@cube/utils": "1.0.0"
+    "@cube/utils": "^1.0.1"
   }
 }

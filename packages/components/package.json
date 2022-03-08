@@ -1,6 +1,6 @@
 {
   "name": "@cubee/components",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "> TODO: description",
   "author": "Wu Hongsu <neil@fiture.com>",
   "homepage": "",
@@ -12,7 +12,8 @@
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "lib",
+    "es"
   ],
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",

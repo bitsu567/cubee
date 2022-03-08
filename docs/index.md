@@ -1,7 +1,7 @@
 ---
 hero:
-  title: cube
-  desc: cube site example
+  title: cubee
+  desc: cubee site example
   actions:
     - text: Getting Started
       link: /components
@@ -18,4 +18,4 @@ features:
 footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
 ---
 
-## Hello cube!
+## Hello cubee!

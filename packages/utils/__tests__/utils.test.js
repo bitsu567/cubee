@@ -2,6 +2,6 @@
 
 const utils = require('..');
 
-describe('@cube/utils', () => {
+describe('@cubee/utils', () => {
   it('needs tests');
 });

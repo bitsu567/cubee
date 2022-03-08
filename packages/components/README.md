@@ -1,11 +1,11 @@
-# `@cube/components`
+# `@cubee/components`
 
 > TODO: description
 
 ## Usage
 
 ```
-const components = require('@cube/components');
+const components = require('@cubee/components');
 
 // TODO: DEMONSTRATE API
 ```

@@ -2,6 +2,6 @@
 
 const components = require('..');
 
-describe('@cube/components', () => {
+describe('@cubee/components', () => {
   it('needs tests');
 });

@@ -1,5 +1,5 @@
 {
-  "name": "@cube/components",
+  "name": "@cubee/components",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Wu Hongsu <neil@fiture.com>",
@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitsu567/cube"
+    "url": "https://github.com/bitsu567/cubee"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@cube/utils": "^1.0.1"
+    "@cubee/utils": "^1.0.1"
   }
 }

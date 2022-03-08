@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/lib/node_modules/yarn/lib/cli.js add @cube/utils
+  /usr/local/bin/node /usr/local/lib/node_modules/yarn/lib/cli.js add @cubee/utils
 
 PATH: 
   /usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
@@ -14,7 +14,7 @@ Platform:
   darwin x64
 
 Trace: 
-  Error: https://registry.npm.taobao.org/@cube%2futils: [NOT_FOUND] @cube/utils not found
+  Error: https://registry.npm.taobao.org/@cubee%2futils: [NOT_FOUND] @cubee/utils not found
       at Request.params.callback [as _callback] (/usr/local/lib/node_modules/yarn/lib/cli.js:66988:18)
       at Request.self.callback (/usr/local/lib/node_modules/yarn/lib/cli.js:140662:22)
       at Request.emit (node:events:520:28)
@@ -28,7 +28,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "@cube/components",
+    "name": "@cubee/components",
     "version": "1.0.0",
     "description": "> TODO: description",
     "author": "Wu Hongsu <neil@fiture.com>",

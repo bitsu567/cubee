@@ -1,4 +1,4 @@
-# cube
+# cubee
 
 ## Getting Started
 

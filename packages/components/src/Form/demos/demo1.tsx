@@ -1,6 +1,6 @@
 import React from 'react';
-import { Form, Button } from '@cube/components';
-import { echo } from '@cube/utils';
+import { Form, Button } from '@cubee/components';
+import { echo } from '@cubee/utils';
 
 const demo1 = () => {
   echo();

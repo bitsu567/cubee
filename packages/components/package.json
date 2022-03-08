@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://www.npmjs.com/",
+    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "repository": {
@@ -26,5 +26,6 @@
   },
   "dependencies": {
     "@cubee/utils": "^1.0.2"
-  }
+  },
+  "gitHead": "14c52eaff4b8261f3146942dbeade6330a6fdea8"
 }

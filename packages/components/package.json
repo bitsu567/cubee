@@ -1,6 +1,6 @@
 {
   "name": "@cubee/components",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "> TODO: description",
   "author": "Wu Hongsu <neil@fiture.com>",
   "homepage": "",
@@ -26,7 +26,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@cubee/utils": "^1.0.3"
+    "@cubee/utils": "^1.0.4"
   },
   "gitHead": "14c52eaff4b8261f3146942dbeade6330a6fdea8"
 }

@@ -6,12 +6,15 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/utils.js",
+  "module": "es/index.js",
+  "typings": "es/index.d.ts",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "lib",
+    "es"
   ],
   "publishConfig": {
     "access": "public"

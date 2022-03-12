@@ -9,8 +9,8 @@
 /lerna-debug.log
 
 # production
-/es
-/docs-dist
+es
+lib
 
 # misc
 .DS_Store
